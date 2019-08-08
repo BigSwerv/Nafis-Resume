@@ -204,7 +204,9 @@ Body h3 {
 
 #bookimage {
     right: 0px;
-    inline-size: 60%
+	inline-size: 60%
+	padding-top: 50px;
+	width: 50%;
     
   
 
